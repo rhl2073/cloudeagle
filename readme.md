@@ -4,5 +4,6 @@ cloud={
       ip="192.168.2.100",
       port=8011,
     },
+    needNetwork = true,
   },
 }
