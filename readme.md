@@ -5,5 +5,6 @@ cloud={
       port=8011,
     },
     needNetwork = false,
+    showFPS = true,
   },
 }
