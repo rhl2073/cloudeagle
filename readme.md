@@ -6,5 +6,8 @@ cloud={
     },
     needNetwork = false,
     showFPS = true,
+    infoEnabled = false,
+    warningEnabled = true,
+    errorEnabled = true,
   },
 }
